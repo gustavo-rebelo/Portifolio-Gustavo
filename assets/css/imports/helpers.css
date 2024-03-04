@@ -1,0 +1,66 @@
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+
+}
+
+.col {
+    width: 50%;
+    padding: 1rem;
+}
+
+.text-primary {
+   color:  #5b4b41;
+}
+
+.btn {
+    color: #ffff;
+    padding: 0.6rem 2rem;
+    border-radius: 0.6rem;
+    display: block;
+    background: #5b4b41;
+    width: max-content;
+    margin: 2rem 0;
+}
+
+.light-detail,
+.dark-detail {
+   position: relative;
+   margin-bottom: 2rem; 
+}
+
+.light-detail:after {
+    content: '';
+    position: absolute;
+    bottom: -0.8rem;
+    left: 0;
+    width: 25px;
+    height: 2px;
+    background: #ffff;
+    border-radius: 100rem;
+}
+
+.dark-detail:after {
+    content: '';
+    position: absolute;
+    bottom: -0.8rem;
+    left: 0;
+    width: 25px;
+    height: 2px;
+    background: black;
+    border-radius: 100rem;
+}
+
+.img-contact {
+    height: 20px;
+    width: 20px;
+    margin: 5px;
+    filter: none;
+}
+
+
