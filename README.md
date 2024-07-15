@@ -1,6 +1,6 @@
 # Portifólio pessoal do Gustavo
 Olá, sou Gustavo Rebelo, Full Stack Developer!
-Sou graduando do curso de Análise e desenvolvimento de sistemas pela Unisinos e apaixonado por tecnologia.<br/>
+Estou cursando Análise e desenvolvimento de sistemas pela Unisinos e sou um apaixonado por tecnologia.<br/>
 
 ### Para a execução deste projeto utilizei as seguintes linguagens de programação:<br/>
 
